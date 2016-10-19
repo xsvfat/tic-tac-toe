@@ -11,5 +11,16 @@
     "url": "(git:https://github.com/xsvfat/tic-tac-toe.git)"
   },
   "author": "Sean Yang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "dependencies": {
+    "EventEmitter": "^1.0.0",
+    "prompt": "^1.0.0"
+  }
 }
